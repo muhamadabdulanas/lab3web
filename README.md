@@ -1,5 +1,5 @@
 # lab3web
-## Membuar order list dan unorderd list 
+## Membuat order list dan unorderd list 
 
 <h1>Membuat List</h1>
 <section id="ordered">
